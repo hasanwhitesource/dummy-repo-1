@@ -1,1 +1,2 @@
-FROM circleci/node:7.7.4
+FROM circleci/node
+echo "hello"
