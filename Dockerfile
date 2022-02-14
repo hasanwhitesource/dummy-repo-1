@@ -1,1 +1,1 @@
-FROM circleci/node:latest
+FROM circleci/node:latest-browsers
